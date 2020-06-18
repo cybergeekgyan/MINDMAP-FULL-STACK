@@ -46,8 +46,6 @@
 2.
 >I will suggest you to make a todo list with all the tasks you got to do and work on them one by one and fork this repo to make sure you have your own mindmap of developer.
 
-3.
->Thank you and if this was helpful scroll below and check for original repo and feel free to star and fork them.
 
 
 
